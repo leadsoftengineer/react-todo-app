@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-todo-app/static/css/main.ed7674bf.chunk.css",
+    "main.js": "/react-todo-app/static/js/main.88b49446.chunk.js",
+    "main.js.map": "/react-todo-app/static/js/main.88b49446.chunk.js.map",
+    "runtime~main.js": "/react-todo-app/static/js/runtime~main.a3a648b2.js",
+    "runtime~main.js.map": "/react-todo-app/static/js/runtime~main.a3a648b2.js.map",
+    "static/css/2.9cb17f55.chunk.css": "/react-todo-app/static/css/2.9cb17f55.chunk.css",
+    "static/js/2.c23c08b4.chunk.js": "/react-todo-app/static/js/2.c23c08b4.chunk.js",
+    "static/js/2.c23c08b4.chunk.js.map": "/react-todo-app/static/js/2.c23c08b4.chunk.js.map",
+    "index.html": "/react-todo-app/index.html",
+    "precache-manifest.f54318097cf4fb8a5a65b4066b657957.js": "/react-todo-app/precache-manifest.f54318097cf4fb8a5a65b4066b657957.js",
+    "service-worker.js": "/react-todo-app/service-worker.js",
+    "static/css/2.9cb17f55.chunk.css.map": "/react-todo-app/static/css/2.9cb17f55.chunk.css.map",
+    "static/css/main.ed7674bf.chunk.css.map": "/react-todo-app/static/css/main.ed7674bf.chunk.css.map",
+    "static/media/font-awesome.min.css": "/react-todo-app/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
